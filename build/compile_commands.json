@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/spaima/Ce_cod/bule/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/myexe.dir/main.c.o -c /home/spaima/Ce_cod/bule/main.c",
+  "file": "/home/spaima/Ce_cod/bule/main.c",
+  "output": "CMakeFiles/myexe.dir/main.c.o"
+},
+{
+  "directory": "/home/spaima/Ce_cod/bule/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/myexe.dir/mergeSort.c.o -c /home/spaima/Ce_cod/bule/mergeSort.c",
+  "file": "/home/spaima/Ce_cod/bule/mergeSort.c",
+  "output": "CMakeFiles/myexe.dir/mergeSort.c.o"
+},
+{
+  "directory": "/home/spaima/Ce_cod/bule/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/myexe.dir/radix.c.o -c /home/spaima/Ce_cod/bule/radix.c",
+  "file": "/home/spaima/Ce_cod/bule/radix.c",
+  "output": "CMakeFiles/myexe.dir/radix.c.o"
+}
+]

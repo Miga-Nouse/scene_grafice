@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/myexe.dir/link.d CMakeFiles/myexe.dir/main.c.o CMakeFiles/myexe.dir/mergeSort.c.o CMakeFiles/myexe.dir/radix.c.o -o myexe
