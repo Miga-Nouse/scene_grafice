@@ -1,3 +1,0 @@
-/home/spaima/Ce_cod/bule/build/CMakeFiles/myexe.dir
-/home/spaima/Ce_cod/bule/build/CMakeFiles/edit_cache.dir
-/home/spaima/Ce_cod/bule/build/CMakeFiles/rebuild_cache.dir
